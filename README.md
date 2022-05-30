@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://sds1-otaviano.netlify.app/
+https://sds1-otaviano.netlify.app/ Obs: Versão gratuita do heroku é mais demorada para fazer a requisição no banco de dados.
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
